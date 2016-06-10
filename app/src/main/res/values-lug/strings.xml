@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Yange Esooka</string>
+
+    <!--Widget strings-->
+    <string name="edit_message">Yingiza obubakka</string>
+    <string name="button_send">Sindika</string>
+    <string name="action_settings">Setingizi</string>
+    <string name="action_search">Nonya</string>
+
+    <!--Layout title-->
+    <string name="title_activity_main">APP</string>
+    <string name="title_activity_display_message">Obubakka bwange</string>
+</resources>

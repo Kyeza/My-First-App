@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mon premier App</string>
+
+    <!--Widget strings-->
+    <string name="edit_message">Entrez un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_search">Chercher</string>
+
+    <!--Layout title-->
+    <string name="title_activity_main">APP</string>
+    <string name="title_activity_display_message">Mon Message</string>
+</resources>
